@@ -22727,6 +22727,32 @@ by R. Vogg  15.March.2002</description>
 <wire x1="1.05" y1="1.65" x2="1.05" y2="-1.65" width="0.1" layer="21"/>
 <wire x1="1.05" y1="-1.65" x2="-2.25" y2="-1.65" width="0.1" layer="21"/>
 <wire x1="-2.25" y1="-1.65" x2="-2.25" y2="1.65" width="0.1" layer="21"/>
+<rectangle x1="-2.09" y1="0.85" x2="-1.31" y2="1.18" layer="31"/>
+<rectangle x1="-2.08" y1="0.18" x2="-1.3" y2="0.51" layer="31"/>
+<rectangle x1="-2.09" y1="-0.49" x2="-1.31" y2="-0.16" layer="31"/>
+<rectangle x1="-2.09" y1="-1.17" x2="-1.31" y2="-0.84" layer="31"/>
+<rectangle x1="-0.94" y1="0.18" x2="-0.13" y2="1.171" layer="31"/>
+<rectangle x1="-0.93" y1="-1.17" x2="-0.12" y2="-0.179" layer="31"/>
+<polygon width="0.01" layer="31" spacing="0.1">
+<vertex x="0.13" y="1.161"/>
+<vertex x="0.13" y="0.17"/>
+<vertex x="0.94" y="0.17"/>
+<vertex x="0.94" y="0.496"/>
+<vertex x="0.59" y="0.496"/>
+<vertex x="0.59" y="0.836"/>
+<vertex x="0.94" y="0.836"/>
+<vertex x="0.94" y="1.161"/>
+</polygon>
+<polygon width="0.01" layer="31" spacing="0.1">
+<vertex x="0.13" y="-0.179"/>
+<vertex x="0.13" y="-1.17"/>
+<vertex x="0.94" y="-1.17"/>
+<vertex x="0.94" y="-0.844"/>
+<vertex x="0.59" y="-0.844"/>
+<vertex x="0.59" y="-0.504"/>
+<vertex x="0.94" y="-0.504"/>
+<vertex x="0.94" y="-0.179"/>
+</polygon>
 </package>
 </packages>
 <symbols>
